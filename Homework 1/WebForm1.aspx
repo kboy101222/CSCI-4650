@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="Item #1 Qty"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="Item #1 Qty" For="TextBox1"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server" Width="121px"></asp:TextBox>
         </div>
         <p>
@@ -22,18 +22,13 @@
         </p>
         <p>
             <asp:Label ID="Label4" runat="server" Text="Total: "></asp:Label>
-            <asp:TextBox ID="TextBox4" runat="server" Width="137px"></asp:TextBox>
+            <asp:TextBox ID="TextBox4" runat="server" Width="158px"></asp:TextBox>
         </p>
         <p>
-            <asp:Button ID="Button1" runat="server" Text="Calculate" Width="183px" />
+            <asp:Button ID="Button1" runat="server" Text="Calculate" Width="204px" />
         </p>
         <p>
-            <asp:Label ID="Label5" runat="server" Text="Item 2 Cost: "></asp:Label>
-            <asp:Label ID="item2Cost" runat="server" Text="Cost"></asp:Label>
-        </p>
-        <p>
-            <asp:Label ID="Label7" runat="server" Text="Item 3 Cost: "></asp:Label>
-            <asp:Label ID="item3Cost" runat="server" Text="Cost"></asp:Label>
+            <asp:Button ID="Button2" runat="server" Text="Clear" Width="203px" />
         </p>
     </form>
 </body>

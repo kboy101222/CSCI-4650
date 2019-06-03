@@ -190,36 +190,9 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Homework_1.WebForm1._Label5">
+<member name="F:Homework_1.WebForm1._Button2">
 <summary>
-Label5 control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:Homework_1.WebForm1._item2Cost">
-<summary>
-item2Cost control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:Homework_1.WebForm1._Label7">
-<summary>
-Label7 control.
-</summary>
-<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member>
-<member name="F:Homework_1.WebForm1._item3Cost">
-<summary>
-item3Cost control.
+Button2 control.
 </summary>
 <remarks>
 Auto-generated field.
