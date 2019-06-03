@@ -6,6 +6,10 @@
     End Sub
 
     Protected Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
+        ' Kyle George
+        ' CSCI 4630 (Summer I 2019)
+        ' For educational use only, do not copy
         Dim itemOneQty, itemTwoQty, itemThreeQty, itemOnePrice, itemTwoPrice, itemThreePrice, total As Double
 
         itemOneQty = Val(TextBox1.Text)
